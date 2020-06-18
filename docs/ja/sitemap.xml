@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/ja/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://soyalumno.github.io/MyBlog/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://soyalumno.github.io/MyBlog/ja/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/ja/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://soyalumno.github.io/MyBlog/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://soyalumno.github.io/MyBlog/ja/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/ja/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://soyalumno.github.io/MyBlog/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://soyalumno.github.io/MyBlog/ja/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/ja/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://soyalumno.github.io/MyBlog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://soyalumno.github.io/MyBlog/ja/"
+                />
+  </url>
+  
+</urlset>

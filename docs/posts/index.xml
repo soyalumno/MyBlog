@@ -1,0 +1,74 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Yoshihalog</title>
+        <link>https://soyalumno.github.io/MyBlog/posts/</link>
+        <description>Recent content in Posts on Yoshihalog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://soyalumno.github.io/MyBlog/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>楽天せどり用ツール置き場</title>
+            <link>https://soyalumno.github.io/MyBlog/posts/2020/06/%E6%A5%BD%E5%A4%A9%E3%81%9B%E3%81%A9%E3%82%8A%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB%E7%BD%AE%E3%81%8D%E5%A0%B4/</link>
+            <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://soyalumno.github.io/MyBlog/posts/2020/06/%E6%A5%BD%E5%A4%A9%E3%81%9B%E3%81%A9%E3%82%8A%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB%E7%BD%AE%E3%81%8D%E5%A0%B4/</guid>
+            <description>楽天ポイント計算テンプレ SPUとキャンペーンの日程を設定するだけで、
+楽天の面倒臭いありがたい施策で付与されるポイントを
+自動で計算してくれます🖊
+
+ リアルタイムランキング履歴シート リアルタイムランキングのデータを収集して
+せっせとシートに記録しています(PythonとGASのコンビが)
+ブラックなサーバ環境でよく働いてくれて感謝⚡
+
+ キャンペーン情報自動収集シート 楽天市場のキャンペーン情報を独断と偏見で抽出しています
+普段は閑散としていますが、マラソン中は凄いです＼(^o^)／
+
+ 商品ページ → 1クリック移動ツール Amazon／モノレートに1クリックで移動することが出来ます
+実はツールの中で一番気に入っています😃
+
+ モノレートの次のスタンダードなサイトが見つかったら差し替えたい
+ </description>
+            <content type="html"><![CDATA[<h2 id="楽天ポイント計算テンプレ">楽天ポイント計算テンプレ</h2>
+<p>SPUとキャンペーンの日程を設定するだけで、</p>
+<p>楽天の<del>面倒臭い</del>ありがたい施策で付与されるポイントを</p>
+<p>自動で計算してくれます🖊</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1Ie4uOlyo7ZqgplGXBgmHvaqqI5ipWaJ43F0ABI2LTwg/edit#gid=1792534681"  target="_blank" >
+    <img src="/img/point.png"  class="left"  />
+
+</a></p>
+<hr>
+<h2 id="リアルタイムランキング履歴シート">リアルタイムランキング履歴シート</h2>
+<p>リアルタイムランキングのデータを収集して</p>
+<p>せっせとシートに記録しています(PythonとGASのコンビが)</p>
+<p>ブラックなサーバ環境でよく働いてくれて感謝⚡</p>
+<p><a href="https://docs.google.com/spreadsheets/d/1fUCO8HhBWBJsrwhWkzNHi_rv9Cek9GoAeDH_NA24R_Y/edit#gid=1904962836"  target="_blank" >
+    <img src="/img/rtr.png"  class="left"  />
+
+</a></p>
+<hr>
+<h2 id="キャンペーン情報自動収集シート">キャンペーン情報自動収集シート</h2>
+<p>楽天市場のキャンペーン情報を独断と偏見で抽出しています</p>
+<p>普段は閑散としていますが、マラソン中は凄いです＼(^o^)／</p>
+<p><a href="https://docs.google.com/spreadsheets/d/15SQKYigynICT68l3QRgkCKd9ngjOBeG5LzyMrrubM9s/edit#gid=578163640"  target="_blank" >
+    <img src="/img/campaign.png"  class="left"  />
+
+</a></p>
+<hr>
+<h2 id="商品ページ--1クリック移動ツール">商品ページ → 1クリック移動ツール</h2>
+<p>Amazon／モノレートに1クリックで移動することが出来ます</p>
+<p>実はツールの中で一番気に入っています😃</p>
+<p><a href="https://codepen.io/soyalumno/full/eYpGdPq"  target="_blank" >
+    <img src="/img/raku2ama.png"  class="left"  />
+
+</a></p>
+<blockquote>
+<p>モノレートの次のスタンダードなサイトが見つかったら差し替えたい</p>
+</blockquote>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

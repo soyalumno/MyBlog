@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoshihalog</title>
+    <link>https://soyalumno.github.io/MyBlog/</link>
+    <description>Recent content on Yoshihalog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://soyalumno.github.io/MyBlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Profile</title>
+      <link>https://soyalumno.github.io/MyBlog/profile/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://soyalumno.github.io/MyBlog/profile/</guid>
+      <description>はじめに はじめまして。よしはると申します。
+このブログは、私よしはるの雑記帳になります。
+ 自己紹介  30代都内企業勤務 既婚・子持ち 東京生まれ・東京育ち  実家から半径15キロ以内で人生の大半を過ごす   本業 : プログラマー(C,C++)  #include &amp;lt;stdio.h&amp;gt;void main(int argc, char *argv[]) { printf(&amp;#34;Hello World!\n&amp;#34;); }  副業 : 2019年9月〜 電脳せどり  リベ大の影響で副業を開始   趣味 : 子供と遊ぶ・ゲーム・漫画・アニメ・読書 性格 : 原因自分論大好き   何故ブログを始めたか 電脳せどり楽しい❗
+↓
+でも楽天のポイント計算面倒臭い、、、😥
+んじゃ、スプレッドシートで計算を時短しよ
+Twitterで公開
+↓
+今度はリサーチ面倒臭い、、、😥
+よっしゃ、プログラミングで半自動化しよ❗
+Twitterで公開
+↓
+電脳せどり用ツールが増えてきた、、、
+Twitterでは、まとまりが無くて見にくい、、、
+Webページにまとめておきたいからブログ作ります。← 今ここ</description>
+    </item>
+    
+    <item>
+      <title>楽天せどり用ツール置き場</title>
+      <link>https://soyalumno.github.io/MyBlog/posts/2020/06/%E6%A5%BD%E5%A4%A9%E3%81%9B%E3%81%A9%E3%82%8A%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB%E7%BD%AE%E3%81%8D%E5%A0%B4/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://soyalumno.github.io/MyBlog/posts/2020/06/%E6%A5%BD%E5%A4%A9%E3%81%9B%E3%81%A9%E3%82%8A%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB%E7%BD%AE%E3%81%8D%E5%A0%B4/</guid>
+      <description>楽天ポイント計算テンプレ SPUとキャンペーンの日程を設定するだけで、
+楽天の面倒臭いありがたい施策で付与されるポイントを
+自動で計算してくれます🖊
+
+ リアルタイムランキング履歴シート リアルタイムランキングのデータを収集して
+せっせとシートに記録しています(PythonとGASのコンビが)
+ブラックなサーバ環境でよく働いてくれて感謝⚡
+
+ キャンペーン情報自動収集シート 楽天市場のキャンペーン情報を独断と偏見で抽出しています
+普段は閑散としていますが、マラソン中は凄いです＼(^o^)／
+
+ 商品ページ → 1クリック移動ツール Amazon／モノレートに1クリックで移動することが出来ます
+実はツールの中で一番気に入っています😃
+
+ モノレートの次のスタンダードなサイトが見つかったら差し替えたい
+ </description>
+    </item>
+    
+  </channel>
+</rss>

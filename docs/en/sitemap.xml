@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/posts/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/profile/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://soyalumno.github.io/MyBlog/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://soyalumno.github.io/MyBlog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/posts/2020/06/%E6%A5%BD%E5%A4%A9%E3%81%9B%E3%81%A9%E3%82%8A%E7%94%A8%E3%83%84%E3%83%BC%E3%83%AB%E7%BD%AE%E3%81%8D%E5%A0%B4/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://soyalumno.github.io/MyBlog/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://soyalumno.github.io/MyBlog/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://soyalumno.github.io/MyBlog/ja/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://soyalumno.github.io/MyBlog/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://soyalumno.github.io/MyBlog/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://soyalumno.github.io/MyBlog/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://soyalumno.github.io/MyBlog/tags/"
+                />
+  </url>
+  
+</urlset>
