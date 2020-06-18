@@ -109,9 +109,9 @@ disableHugoGeneratorInject = false
     name = "email"
     url  = "mailto:macwindows725575@gmail.com"
 
-  #[[params.social]]
-  #  name = "github"
-  #  url  = "https://github.com/"
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/soyalumno"
 
   #[[params.social]]
   #  name = "linkedin"
@@ -122,9 +122,14 @@ disableHugoGeneratorInject = false
   #  url  = "https://www.stackoverflow.com/"
 
 [languages]
-  [languages.en]
+  [languages.ja]
     subtitle  = "Hello Friend NG Theme"
     weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.en]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   #[languages.fr]
