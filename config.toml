@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://soyalumno.github.io/MyBlog"
 title   = "Yoshihalog"
 languageCode = "ja"
 theme = "hello-friend-ng"
@@ -17,7 +17,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "docs"
 
 buildDrafts  = false
 buildFuture  = false
@@ -123,13 +123,11 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.ja]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 1
+    weight    = 20
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
+    weight    = 10
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   #[languages.fr]
@@ -145,7 +143,7 @@ disableHugoGeneratorInject = false
     weight     = 20
   [[menu.main]]
     identifier = "post"
-    name       = "Blog"
+    name       = "Posts"
     url        = "posts/"
     weight     = 10
 

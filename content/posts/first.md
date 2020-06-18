@@ -1,7 +1,8 @@
 ---
 title: "楽天せどり用ツール置き場"
-date: "2020-06-16"
-menu: "blog"
+date: 2020-06-16
+draft: false
+menu: "post"
 author: "Yoshiharu"
 toc: true
 ---
