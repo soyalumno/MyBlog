@@ -1,6 +1,7 @@
 ---
 title: "楽天せどり用ツール置き場"
 date: 2020-06-16
+lastmod: 3020-06-16
 draft: false
 menu: "post"
 author: "Yoshiharu"
@@ -16,6 +17,7 @@ SPUとキャンペーンの日程を設定するだけで、
 自動で計算してくれます🖊
 
 [{{< image src="/img/point.png" width="100">}}](https://docs.google.com/spreadsheets/d/1Ie4uOlyo7ZqgplGXBgmHvaqqI5ipWaJ43F0ABI2LTwg/edit#gid=1792534681)
+
 
 ---
 
@@ -43,10 +45,8 @@ SPUとキャンペーンの日程を設定するだけで、
 
 ## 商品ページ → 1クリック移動ツール
 
-Amazon／モノレートに1クリックで移動することが出来ます
+Amazon／Keepaに1クリックで移動することが出来ます
 
 実はツールの中で一番気に入っています😃
 
 [{{< image src="/img/raku2ama.png" >}}](https://codepen.io/soyalumno/full/eYpGdPq)
-
-> モノレートの次のスタンダードなサイトが見つかったら差し替えたい
